@@ -1,6 +1,6 @@
 # How to use
 
-## Starting apache
+## Starting Apache
 
 ### For PostgreSQL database
 
