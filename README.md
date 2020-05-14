@@ -1,9 +1,9 @@
-# Boilerplate Laravel with Docker
+# How to use
 
-## Starting apache
+## Starting apache for postgres
 
 ```bash
-docker-compose up
+docker-compose up apache-postgres
 ```
 
 ## Using Composer CLI
