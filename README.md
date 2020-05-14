@@ -6,13 +6,15 @@
 docker-compose up apache-postgres
 ```
 
-## Using Composer CLI
+## Util CLIs
+
+### Composer
 
 ```bash
 docker run --rm -it -v ${PWD}:/app composer --version
 ```
 
-## Using Laravel CLI
+### Laravel
 
 ```bash
 # Building Docker image with Laravel
