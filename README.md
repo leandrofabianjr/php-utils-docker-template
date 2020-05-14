@@ -2,7 +2,7 @@
 
 ## Starting apache
 
-### For postgres database
+### For PostgreSQL database
 
 ```bash
 docker-compose up apache-postgres
