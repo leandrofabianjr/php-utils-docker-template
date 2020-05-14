@@ -1,9 +1,9 @@
 version: '3.7'
 services: 
-    laravel-apache:
-        build: ./docker/apache
-        image: laravel-apache
-        container_name: laravel-apache
+    apache-postgres:
+        build: ./docker/apache-postgres
+        image: apache-postgres
+        container_name: apache-postgres
         volumes:
             - ./:/var/www/html
         ports:
