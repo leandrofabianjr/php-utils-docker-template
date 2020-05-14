@@ -1,6 +1,8 @@
 # How to use
 
-## Starting apache for postgres
+## Starting apache
+
+### For postgres database
 
 ```bash
 docker-compose up apache-postgres
